@@ -1,0 +1,52 @@
+.errormsg{
+    color:red;
+    font-size: 17px;
+}
+
+.error small.error_msg {
+    display: block;
+}
+img {
+    border: none;
+    vertical-align: top;
+    max-width: 100%;
+}
+
+.small-image {
+    width: 100px; /* Adjust the width to make the image smaller */
+    height: auto; /* Maintain the aspect ratio */
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.error_msg {
+    color: red;
+    font-size: 12px;
+}
+
+.error .form-control {
+    border-color: red;
+}
+
+.name_size {
+    font-size: 12px;
+}
+
+.signup-link-container {
+    margin-top: 20px; /* Adjust this value to increase or decrease the gap */
+  }
+  
+  .signup-link {
+    text-align: center;
+  }
+  
+  .signup-link a {
+    color: #007bff; /* Change this to your desired link color */
+    text-decoration: none;
+  }
+  
+  .signup-link a:hover {
+    text-decoration: underline;
+  }
